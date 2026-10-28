@@ -1,0 +1,37 @@
+[
+  {
+    "proposal": "A",
+    "rank": 1,
+    "status": "ranked",
+    "score": 66.62,
+    "reason": "Highest overall score among eligible proposals."
+  },
+  {
+    "proposal": "E",
+    "rank": 2,
+    "status": "ranked",
+    "score": 55.68,
+    "reason": "Strong warranty and team scores place it above C, despite lower experience and price scores."
+  },
+  {
+    "proposal": "C",
+    "rank": 3,
+    "status": "ranked",
+    "score": 54.79,
+    "reason": "Eligible, but lower experience, price, timeline, and team scores reduce its overall ranking."
+  },
+  {
+    "proposal": "B",
+    "rank": null,
+    "status": "ineligible",
+    "score": null,
+    "reason": "The bidder's own Ontario electrical contractor licence is not established."
+  },
+  {
+    "proposal": "D",
+    "rank": null,
+    "status": "flagged",
+    "score": null,
+    "reason": "Completion timeline is undetermined; clarification is needed before final scoring."
+  }
+]
